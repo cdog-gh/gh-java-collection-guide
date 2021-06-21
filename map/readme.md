@@ -4,7 +4,6 @@ hashmap과 treemap을 많이 이용합니다. 이 중에 압도적으로 **Hashm
 * Treemap은 range query가 들어올 때 사용합니다. range query는 2가지로 분류할 수 있습니다.
  * **a보다 크거나 같고, b보다 작거나 같은 key**들을 모두 구한다.
  * **lower_bound, upper_bound** 등의 연산  
-equal query와 range query는 데이터 베이스의 index를 다룰 때도 나오기 때문에 알아두시면 좋습니다.
 
 # Question
 면접에서 물어볼 수 있는 것들은 아래와 같습니다.
