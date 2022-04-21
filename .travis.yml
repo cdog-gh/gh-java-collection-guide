@@ -1,4 +1,1 @@
-language: java
-java:
-- 11
 script:
